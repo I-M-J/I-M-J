@@ -9,8 +9,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🌱 I'm currently learning Next.js, Express.js & MongoDB to build full stack web applications
-- 👯 I'm looking to collaborate on full stack Next.js projects
+- 🌱 I'm currently sharpening my expertise in TypeScript and Backend Techs like Prisma and PostgreSQL
+- 👯 I'm actively collaborating in EasyBuy full stack project as well as looking to collaborate on full stack Next.js projects
 - 🤝 I'm looking for help with finding project ideas to build and expand my portfolio
 - 💬 Ask me about anything related to Web Development or JavaScript, I'm happy to discuss!
 - 🎯 I'm working towards landing my first developer role
